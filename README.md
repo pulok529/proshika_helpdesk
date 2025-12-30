@@ -1,2 +1,6 @@
 # proshika_helpdesk
-helpdesk software
+Helpdesk software workspace.
+
+## Structure
+- `api/` — backend service placeholder.
+- `app/` — frontend/mobile client placeholder.

@@ -1,0 +1,9 @@
+# Common backend ignores
+node_modules
+dist
+build
+.DS_Store
+.env
+.venv
+__pycache__/
+*.log
