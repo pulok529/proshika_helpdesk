@@ -1,6 +1,6 @@
-# App Client
+# Helpdesk App Client
 
-Frontend/mobile placeholder for the helpdesk solution.
+Frontend/mobile placeholder for the helpdesk solution (folder: `helpdeskapp`).
 
 Next steps:
 - Pick framework (React/Next.js/React Native/Flutter, etc.).
